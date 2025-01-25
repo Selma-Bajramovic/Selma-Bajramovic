@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Selma Bajramović
 
 ### About Me
-**I'm a final year software engineering student at the Faculty of information technologies in Mostar.**
+**I'm a final year software engineering student at the Faculty of Information Technologies in Mostar.**
 
 - 🌱 I’m currently learning **Python** and exploring the fascinating world of **Artificial Intelligence** and **Machine Learning**.
   - So far I've done: [AI agent for flood risk prediction](https://github.com/Selma-Bajramovic/ai-agent-flood-prediction).
