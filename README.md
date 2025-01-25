@@ -7,10 +7,7 @@ I'm a final year software engineering student at the Faculty of information tech
   - So far I've done: [AI agent for flood risk prediction](https://github.com/Selma-Bajramovic/ai-agent-flood-prediction).
 - 🤝 I’m looking forward to my first **Career Opportunity**.
 - 💬 You can explore some of the things I've built and worked on, on my [GitHub profile](https://github.com/selma-bajramovic).
-- 📫 How to reach me:  
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajramovicselma0@gmail.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selma-bajramovic/)  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selma-bajramovic)
+- 📫 How to reach me:[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajramovicselma0@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selma-bajramovic/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selma-bajramovic)
 
 # Certificates & Courses
 - **C++ Programming** - [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
@@ -19,9 +16,6 @@ I'm a final year software engineering student at the Faculty of information tech
 - Description: Advanced concepts in C++, including templates, STL, and multithreading.
 - **Object-Oriented Programming (OOP)** - [![OOP](https://img.shields.io/badge/Object_Oriented_Programming-FF6F00?style=for-the-badge&logo=java&logoColor=white)]
 - Description: Learned the principles of OOP, including encapsulation, inheritance, and polymorphism.
-
-# GitHub Stats
-![Selma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=selma-bajramovic&show_icons=true&theme=dark)
 
 # Tech Stack
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
