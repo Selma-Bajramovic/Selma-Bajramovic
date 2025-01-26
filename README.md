@@ -9,7 +9,7 @@
 - 💬 You can explore some of the things I've built and worked on, on my [GitHub profile](https://github.com/selma-bajramovic).
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajramovicselma0@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selma-bajramovic/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/selma-bajramovic)
 
-### My portfolio [here](https://selma-bajramovic.github.io/portfolio/)
+## My portfolio [here](https://selma-bajramovic.github.io/portfolio/)!🖥️🚀🎨📚
 
 ### Certificates & Courses
 - **C++ Programming**  [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
