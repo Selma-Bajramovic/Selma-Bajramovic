@@ -36,6 +36,9 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=ai&logoColor=white)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge&logo=machine-learning&logoColor=black)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![QA](https://img.shields.io/badge/QA-009688?style=for-the-badge&logo=quality-assurance&logoColor=white)](https://en.wikipedia.org/wiki/Quality_assurance)
+[![Information Security](https://img.shields.io/badge/Information_Security-0078D4?style=for-the-badge&logo=security&logoColor=white)](https://en.wikipedia.org/wiki/Information_security)
 
 ### Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Selma-Bajramovic&layout=compact&theme=dark)
