@@ -1,15 +1,19 @@
-## Hi there 👋, I'm Selma Bajramović
+<div align="center">
 
-💻 **Full-Stack Developer** | 🎓 **Final Year Software Engineering Student** | 🤖 **AI Enthusiast**  
-📍 Based in **Sarajevo & Mostar** | 🚀 Next step: **Master's Degree** 
+<h2>Hi there, I'm Selma Bajramović</h2>
 
-📫 **Reach me:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bajramovicselma0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/selma-bajramovic/)  
+<p><strong>Full-Stack Developer</strong> | <strong>Final Year Software Engineering Student</strong> | <strong>AI Enthusiast</strong></p>
+<p>Based in <strong>Sarajevo & Mostar</strong> | Next step: <strong>Master's Degree</strong></p>
 
+<p>
+<a href="mailto:bajramovicselma0@gmail.com">Gmail</a> • 
+<a href="https://www.linkedin.com/in/selma-bajramovic/">LinkedIn</a>
+</p>
+
+</div>
 ---
 
-### 🛠️ About Me
+### About Me
 ```javascript
 const SelmaBajramovic = {
   title: "Full-Stack Developer",
