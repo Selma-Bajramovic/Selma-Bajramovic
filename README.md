@@ -11,6 +11,7 @@
 </p>
 
 </div>
+---
 ### About Me
 ```javascript
 const SelmaBajramovic = {
