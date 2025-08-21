@@ -6,13 +6,19 @@
 <p>Based in <strong>Sarajevo & Mostar</strong> | Next step: <strong>Master's Degree</strong></p>
 
 <p>
-<a href="mailto:bajramovicselma0@gmail.com">Gmail</a> • 
-<a href="https://www.linkedin.com/in/selma-bajramovic/">LinkedIn</a>
+<a href="mailto:bajramovicselma0@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/selma-bajramovic/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 </p>
 
 </div>
+
 ---
-### About Me
+
+### 🛠️ About Me
 ```javascript
 const SelmaBajramovic = {
   title: "Full-Stack Developer",
