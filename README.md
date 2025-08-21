@@ -2,7 +2,7 @@
 
 <h2>Hi there, I'm Selma Bajramović</h2>
 
-<p><strong>Full-Stack Developer</strong> | <strong>Final Year Software Engineering Student</strong> | <strong>AI Enthusiast</strong></p>
+<p><strong>Full-Stack Developer</strong> | <strong>Final Year Software Engineering Student</strong></p>
 <p>Based in <strong>Sarajevo & Mostar</strong> | Next step: <strong>Master's Degree</strong></p>
 
 <p>
