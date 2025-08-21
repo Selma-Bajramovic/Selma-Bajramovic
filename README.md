@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ About Me
+### About Me
 ```javascript
 const SelmaBajramovic = {
   title: "Full-Stack Developer",
