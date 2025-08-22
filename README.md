@@ -26,7 +26,7 @@ const SelmaBajramovic = {
   age: 23,
   education: {
     degree: "BSc in Software Engineering",
-    status: "Final Year",
+    status: "Final Year at Faculty of Information Technologies",
     nextStep: "Master's Degree"
   },
   techStack: {
@@ -40,5 +40,5 @@ const SelmaBajramovic = {
   interests: ["Full-Stack Development", "Artificial Intelligence", "Clean Code"],
   hobbies: ["Gym", "Reading"],
   currently: "Focused on building full-stack apps with .NET and Angular",
-  quote: "Code is like humor. When you have to explain it, it’s bad."
+  quote: "Clean code always looks like it was written by someone who cares."
 };
